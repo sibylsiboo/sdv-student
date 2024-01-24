@@ -1,5 +1,2 @@
-#hi welcome to this random page
-
-this is a start of my sdv class
-don't know what I will make at the end
-let'see >3
+## Coding Foundation-Mahjong
+I referred to some reference on w3schools for html and javascript to create this simple interactive website. (not simple at all...im dying TvT)
