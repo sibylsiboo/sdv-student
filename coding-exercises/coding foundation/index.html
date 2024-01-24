@@ -1,0 +1,68 @@
+<html>
+<head>
+
+  <style>
+    body {
+      background-color: rgb(142, 170, 140);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    #mahjong-container {
+      text-align: center;
+    }
+
+    #mahjong-container span {
+      font-size: 100px;
+    }
+
+    #mahjong-number {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1 style="color: aliceblue;">Try to Enlarge the Mahjong Based on the Number you Select</h1>
+  <div id="mahjong-container">
+    <span id="mahjong-1">&#126983;</span>
+    <span id="mahjong-2">&#126984;</span>
+    <span id="mahjong-3">&#126985;</span>
+    <span id="mahjong-4">&#126986;</span>
+    <span id="mahjong-5">&#126987;</span>
+    <span id="mahjong-6">&#126988;</span>
+    <span id="mahjong-7">&#126989;</span>
+    <span id="mahjong-8">&#126981;</span>
+  </div>
+  <br>
+  
+  <label for="mahjong-number">Select Mahjong number (1-8):</label>
+  <input type="number" id="mahjong-number" name="mahjong-number" min="1" max="8">
+  <br>
+ 
+  <button onclick="enlargeMahjong()">Enlarge Mahjong</button>
+
+  <script>
+    function enlargeMahjong() {
+      let mahjongNumber = document.getElementById("mahjong-number").value;
+      let mahjongContainer = document.getElementById("mahjong-container");
+
+      let allMahjong = mahjongContainer.getElementsByTagName("span");
+      for (var i = 0; i < allMahjong.length; i++) {
+        allMahjong[i].style.fontSize = "100px"; 
+      }
+
+      let selectedMahjong = document.getElementById("mahjong-" + mahjongNumber);
+      if (selectedMahjong) {
+        selectedMahjong.style.fontSize = "300px"; 
+      } else {
+        alert("Invalid Mahjong number. Please enter a number between 1 and 8.");
+      }
+    }
+
+  </script>
+</body>
+</html>
