@@ -1,0 +1,124 @@
+
+body{
+    margin: 50;
+    /* background-color: rgb(101, 90, 90); */
+    background-image: url('assets/bg.png');
+  }
+
+.mainContainer{
+    width:100%;
+    max-width: 800px;
+    /* outline: 1px solid black; */
+    margin: auto;
+}
+
+.heading{
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#viz2-stickyBox{
+  background-color: rgba(255, 255, 255, 0);
+  position: sticky;
+  top:10px;
+  z-index: -1;
+}
+
+#viz2-stick-passersby{
+  outline: 12px solid rgba(98, 131, 159, 0);
+  /* background-color: rgba(255, 166, 0, 0.34); */
+}
+
+.spacer-10{
+  height:10vh;
+  /* background-color: rgba(255, 166, 0, 0.34); */
+
+}
+
+.spacer-50{
+  height:50vh;
+  /* background-color: rgba(255, 166, 0, 0.34); */
+
+}
+
+/* .spacer-100{
+  height:50vh;
+  /* background-color: rgba(255, 166, 0, 0.34); */
+
+
+
+.articleWrapper{
+    width:100%;
+    background-color: rgba(222, 229, 233, 0.384);
+    max-width: 800px;
+    /* outline: 1px solid rgb(255, 255, 255); */
+    box-shadow: #040505;
+    margin: auto;
+    padding: 0 5px;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.graphBox img{
+  position:relative;
+    width: 100%;
+}
+
+.graphBox .caption{
+    position: center;
+    font-size: 0.8em;
+    margin:0;
+}
+
+.tooltip strong {
+    color: #4a535de8;
+    font-weight: bold;
+  }
+  
+  .tooltip span {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+  
+    border-radius: 50%;
+  }
+  
+  .tooltip {
+    position: relative;
+    display: none;
+    background: rgba(182, 211, 240, 0.49);
+    border: 0px;
+    border-radius: 8px;
+    /* box-shadow: -3px 3px 15px #939393; */
+    color: rgb(0, 0, 0);
+    padding: 6px;
+    font-family: "Merriweather";
+    font-size: 1.1em;
+    max-width: 300px;
+    z-index: 99;
+  }
+
+  /* .tooltip1 {
+    position: absolute;
+    text-align: center;
+    width: 300px;
+    font: 9px sans-serif;
+    background: rgba(182, 211, 240, 0.49);
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+    opacity: 1;
+    padding: 4px 15px;
+    display: none;
+    z-index: 99;
+  } */
+  
+  p{
+    margin: 2;
+    padding: 0;
+    display: flex;
+    /* color: rgb(51, 51, 51); */
+    justify-content: space-between;
+  }
+
+  

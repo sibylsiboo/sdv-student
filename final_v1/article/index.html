@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🏠Main Page</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- <script src="../localLibrary/d3.v7.min.js"></script>
+    <script src="./d3.v4.js"></script> -->
+    <!-- <script src="./hebei.js"></script> -->
+    <script src='https://unpkg.com/@turf/turf@6/turf.min.js'></script>
+    <!-- <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script> -->
+</head>
+
+<body>
+        
+
+    <!-- <div class="tooltip"></div> -->
+    <!-- <div class="tooltip1"></div> -->
+    <div class="mainContainer">
+        <!-- <image src="article/background10.png"></image> -->
+        <div class="heading">
+            <h1>🏠家家有本难念的经🏠</h1>
+            <h4>We all have a cross to bear</h4>
+        </div>
+        <div class="articleWrapper">
+            <p>China appears to have finally shaken off the dark clouds of the COVID-19 era as the summer of 2024 looms.
+                The stringent measures of lockdowns, masks, and quarantines are becoming relics of the past. With these
+                barriers lifted, there's a palpable sense of anticipation across China. On the eve of the Dragon Year's
+                New Year's Eve, discussions at the family dinner table started to shift from fears about virus
+                infections or the necessity of doing a nucleic acid test to making vacation travel plans. Every
+                household seemed to be brimming anew with hope for the future.
+            </p>
+            <p>From urban skyscrapers to rural landscapes, Chinese families are on the brink of embracing a potentially
+                transformative economic upswing. The questions on everyone's lips are not just about adding another dish
+                to the dinner table but about larger aspirations like owning a new car. For a better tomorrow, families
+                are starting to look for ways to revive their own economic situation and think about moving forward to a
+                better tomorrow.
+            </p>
+            <p>But how will these aspirations unfold into reality? This is a question not just for individual families
+                but for the entire nation.
+                There is an old Chinese phase called 前车之鉴 that can be translated into English as "a lesson from the
+                past" or "a warning from the past." It refers to learning from the mistakes or experiences of those who
+                have gone before to avoid similar pitfalls.
+                Related to the economic issues people are discussing now, it reminds us of the famous term "Business
+                Cycle." Here, the concept of the Business Cycle becomes a lens through which we might forecast the
+                future. Reflecting on a decade of robust growth, should we look back to chart our path forward? This
+                isn't a solitary quest.
+            </p>
+
+            <p>According to a survey by the China Family Panel Studies (CFPS), which contrasts China's steady
+                development over the past 30 years with the turbulent economic trajectories in the West, it's worth
+                pondering whether China's model offers a blueprint for sustainable growth.
+            </p>
+            <p>The China Family Panel Studies (CFPS), initiated by Peking University in 2010, provides a biennial,
+                longitudinal survey collecting extensive data on Chinese families and communities. It captures economic
+                activities, education outcomes, family dynamics, and health, among other factors. Since 2010 to 2020,
+                its surveys have been conducted every two years.Using computer-assisted interviews, the survey tracks
+                nearly 15,000 families to ensure a fully representative national coverage, with a focus on five
+                provinces for detailed regional analysis. CFPS's rich, longitudinal data makes it invaluable for
+                understanding the evolving landscape of Chinese familial and economic life, underpinning our study of
+                the profound changes observed in Chinese households over the past two decades and offering rich
+                information.
+            </p>
+        </div>
+        <!-- <div class="tooltip"></div> -->
+        <div class="graphBox">
+            <div class="tooltip"></div>
+            <!-- <img src="assets/16pic_7185893_b.jpg" alt=""> -->
+            <div id="viz1"></div>
+            <p class="caption">Average Income in 2020</p>
+        </div>
+        <div class="articleWrapper">
+            <p>Delving into the survey’s economic details that portray China's diverse regions, a tapestry of distinct
+                income profiles emerges, each one a unique creation that has evolved over the past twenty years.
+            </p>
+            <p>The China Family Panel Studies (CFPS), initiated by Peking University in 2010, provides a biennial,
+                longitudinal survey collecting extensive data on Chinese families and communities. It captures economic
+                activities, education outcomes, family dynamics, and health, among other factors. Since 2010 to 2020,
+                its surveys have been conducted every two years.Using computer-assisted interviews, the survey tracks
+                nearly 15,000 families to ensure a fully representative national coverage, with a focus on five
+                provinces for detailed regional analysis. CFPS's rich, longitudinal data makes it invaluable for
+                understanding the evolving landscape of Chinese familial and economic life, underpinning our study of
+                the profound changes observed in Chinese households over the past two decades and offering rich
+                information.
+            </p>
+            <p>The survey targets households from the windswept high-rises of Shanghai to the tranquil expanses of
+                Gansu, affording an intricate view of the nation's variegated economic terrain. This study's design—a
+                deliberate contrast in the number of surveyed households, with 1,600 in prominent provinces to a mere
+                400 in others—casts into stark relief the multifaceted scales of economic vigor and community patterns.
+            </p>
+            <p>This narrative charts lifestyle evolution within three Chinese families in Hebei province.
+            </p>
+        </div>
+        <div class="graphBox">
+            <div id="viz2-stickyBox">
+                <div id="viz2"></div>
+                <p class="caption">Three Families in Hebei</p>
+            </div>
+            <div id="viz2-stick-passersby"></div>
+            <div class="spacer-50"></div>
+            <div class="articleWrapper">
+            <h3>Family1</h3>
+            <p>This family of three has one breadwinner who is already 53-years-old and still toils to support one child
+                whose education costs 12,000 yuan, one-third of the family’s expenditure.
+                But their rented home, at only 500 yuan a month and only 1.66% of their expenditure, is quite a humble
+                setting for the daily challenges of their life, complicated further by a debt of 40,000 yuan. Their
+                situation presents a stark contrast against Hebei’s economic backdrop, where the annual income varies,
+                but educational spending unexpectedly becomes the most significant portion of family budgets. This
+                family's struggles mirror the delicate balance many face, as they invest in their child’s future while
+                navigating the present's financial constraints.
+                The pillar of the household who works, aged 53, has only received a middle school education. Surveys
+                indicate that his workplace is located in the local village or county, yet his satisfaction with his job
+                is merely a 2 out of a maximum of 5, indicating considerable discontent. This dissatisfaction seems to
+                permeate various aspects of his life, with his overall satisfaction level toward his life standing at
+                only 3 out of 5. However, in a survey conducted in 2018, he reported having an optimistic and positive
+                image, declaring a 5 in being confident about the future.
+            </p>
+            </div>
+            <div class="spacer-10"></div>
+            <div class="articleWrapper">
+            <h3>Family2</h3>
+            <p>This household was once a "big family," spanning three generations under one roof. However, over time,
+                the children have moved out to establish their own families. The third generation, represented by
+                children born in the 1990s, now forms the nucleus of this household. Like the first family, the parents
+                have also received only a middle school education, and the people work outside also within the confines
+                of their township, unable to venture beyond its boundaries.
+                The first aspect about their life that is noteworthy is their accommodation costs which exceed 4,000
+                yuan in rent, making it the highest among these three families. This substantial expenditure,
+                considering the average rent across Hebei based on Sina Finance data in 2021 was 16 yuan per capita
+                rent/square meter, indicates a significant financial burden. With such rent, they could almost afford a
+                266-square-meter house. Given the provincial average monthly income trailing behind their rent, this
+                family's spending on housing alone suggests a financial stretch, indicative of the sacrifices made by
+                many in pursuit of economic stability.
+                This family shares a similar educational background as Family 1. However, with a total annual income of
+                50,000 yuan, they outpace the first family by 20,000 yuan. While the first household expressed a
+                satisfaction level of 2 out of 5 in 2018, the second household consistently maintained a higher level of
+                satisfaction, scoring 4 out of 5 in both 2018 and 2020. This trend appears to correlate with their
+                improved income situation.
+            </p>
+            </div>
+            <div class="spacer-10"></div>
+            <div class="articleWrapper">
+            <h3>Family3</h3>
+            <p>The third family, unlike the previous two, embodies a distinct economic dynamic, relying on real estate
+                to sustain their livelihoods. This two-person household, without any employment, finds their economic
+                stability in property ownership. Their house, valued at 600,000 yuan, stands as their primary asset,
+                complemented by modest savings of 20,000 yuan. Notably, they are unencumbered by debt, which sets them
+                apart from many other households in Hebei.
+                Despite their lack of traditional employment, this family generates an annual income of 72,000 yuan,
+                likely derived from renting out their property. This income stream, while atypical in Hebei, where
+                rental income is not a common source of livelihood, allows them to surpass the average disposable income
+                for the region.
+                In contrast to families burdened by high rents and limited savings, this family's financial situation
+                provides a sense of stability and security. Their prudent financial management is evident in their
+                ability to maintain their property and generate income from it without relying on physical labor.
+                Moreover, their confidence in the future seems to also benefit from this precious property which has
+                remained relatively high, with only a marginal decrease from a 5 in 2018 to a 4 in 2020, despite the
+                economic turbulence induced by the COVID.
+                This family's profile offers an intriguing juxtaposition to the narratives of the previous two
+                households especially when their age also subtly reflects the various stages of human life. While the
+                first family, they still believe in the transformative power of education amidst financial constraints
+                so they put almost half of their effort into cultivating a “scholar”.
+            </p>
+            </div>
+            <div class="spacer-50"></div>
+
+            <!-- <div class="tooltip1"></div> -->
+
+        </div>
+        <!-- <p class="caption">Three Families in Hebei</p>      -->
+   
+      <div class="articleWrapper">
+        <p>Before diving into the data, it's evident from the design of the CFPS itself that there's an apparent
+            inclination towards stratifying the economic study of families across various provinces and cities in China.
+        </p>
+        <p>Over the last two decades, every province and city in China has demonstrated unique income trajectories. The
+            China Family Panel Studies (CFPS) meticulously categorized these into large provinces like Shanghai,
+            Liaoning, Henan, Gansu, and Guangdong, and smaller counterparts based on criteria like local GDP per capita,
+            which served as a key index for socioeconomic status within administrative units. This survey approach
+            reveals stark contrasts: while 1,600 households per large province were surveyed, only 400 were approached
+            in each of the remaining smaller provinces, underscoring a significant disparity in data granularity.
+        </p>
+        <p>Yet amidst this array of layered urban landscapes, we've identified a province that, until recent years,
+            remained largely unnoticed. In 2017, it surged into the limelight, only to experience a precipitous fall
+            thereafter—Hebei.
+        </p>
+        <p>Despite not being categorized among the largest provinces in the CFPS survey, Hebei holds considerable
+            strategic importance within the Jing-Jin-Ji (Beijing-Tianjin-Hebei) region. The province faces substantial
+            economic development challenges, notably in achieving environmental targets and fostering a green economy.
+        </p>
+        <p>In the geographical chessboard of Northern China, Hebei stands as a crucial piece, enveloped by Beijing on
+            three sides and lying on the vast North China Plain. Together with Beijing and Tianjin, it forms an
+            equilateral triangle at the heart of a thriving plain, benefitting from the convenience of modern transit
+            routes.
+        </p>
+
+        <p>Major transit routes like the Da-Guang Expressway, Jing-Jiu Railway, and Bao-Cang Expressway weave a network
+            that connects cities such as Shijiazhuang and Baoding within a half-hour's commute. With the new Beijing
+            Airport approximately 55 kilometers away, Hebei is well-positioned to satisfy the developmental needs of
+            high-end, high-tech industries. It is also home to the North China Plain's largest freshwater lake,
+            Baiyangdian, and is graced by the convergence of rivers like the Cao River and the South Reject Horse River,
+            adding to its ecological appeal.
+        </p>
+        <p>By all accounts, Hebei's geographical positioning seems to be a promising platform from which it could leap
+            into the ranks of first-tier cities. However, the CFPS does not recognize it as a major city. Moreover,
+            after taking office in 2013, President Xi Jinping proclaimed Hebei a "Metropolitan Auxiliary Node City" in
+            response to a report on the coordinated development of the Jing-Jin-Ji region.
+        </p>
+        <p>The Hebei Provincial New Urbanization Plan, released on March 26, 2014, clarified Baoding's role in
+            alleviating Beijing's capital functions, translating to the relocation of administrative institutions,
+            corporate headquarters, financial entities, universities, and research institutes from Beijing to Hebei
+            prefecture-level city Baoding.
+            This narrative, when woven into Hebei's fabric, always seems to return to one central theme: supporting and
+            complementing Beijing's development. For a province ranked only 23rd in national GDP, there appears to be a
+            dissonance between its economic status and the potential its geographical position suggests.
+            This seeming paradox is further endorsed by the design and outcomes of the CFPS survey. In 2020, Hebei's
+            actual household survey participation hit 728, surpassing the initial allocation of 400 and nearing
+            Shanghai's numbers, with an oversample rate of 1.8 in 2020 and 1.57 for the past decades.
+            This suggests an untold story about millions of lives in a land often cast as a mere 'supporting actor,'
+            locked into an ambiguous position. As they continuously channel resources into Beijing, the people of Hebei
+            face their own conundrum: in the grand narrative of regional symbiosis and national development, where do
+            they stand? What is the future of their livelihood as they support the metropolis, yet seek their own
+            identity and prosperity?
+        </p>
+
+        <p>This narrative, when woven into Hebei's fabric, always seems to return to one central theme: supporting and
+            complementing Beijing's development. For a province ranked only 23rd in national GDP, there appears to be a
+            dissonance between its economic status and the potential its geographical position suggests.
+            This seeming paradox is further endorsed by the design and outcomes of the CFPS survey. In 2020, Hebei's
+            actual household survey participation hit 728, surpassing the initial allocation of 400 and nearing
+            Shanghai's numbers, with an oversample rate of 1.8 in 2020 and 1.57 for the past decades.
+            This suggests an untold story about millions of lives in a land often cast as a mere 'supporting actor,'
+            locked into an ambiguous position. As they continuously channel resources into Beijing, the people of Hebei
+            face their own conundrum: in the grand narrative of regional symbiosis and national development, where do
+            they stand? What is the future of their livelihood as they support the metropolis, yet seek their own
+            identity and prosperity?
+        </p>
+
+      </div>
+      <div class="graphBox">
+        <!-- <img src="assets/16pic_7185893_b.jpg" alt=""> -->
+           <div id="viz3">
+            <!-- <image src="graph3-asset/family1.png"></image>
+            <image src="graph3-asset/family2.png"></image>
+            <image src="graph3-asset/family3.png"></image> -->
+           </div>
+ 
+           <p class="caption">Three Different Families' Income in 10 Years</p>
+
+        <div class = "articleWrapper">
+           <p>Shifting our gaze from the broad strokes of Hebei’s economic landscape to the intimate contours of home, we
+            pivot to the lived realities of selected families that mirror the province's complexities. They are the
+            microcosms of a broader narrative, the individual threads in the province's socioeconomic tapestry. As we
+            narrow our lens to the intimate scale of domestic life, we encounter three households, each a testament to
+            the diversity and challenge of economic sustenance in the region.
+            </p>
+
+        <p>Based on the most recent data model, we filtered 728 surveyed households in Hebei Province, focusing on two
+            key financial indicators: family asset income and non-housing debt. These two metrics directly impact
+            household financial status and are closely related to Hebei's per capita disposable income. According to the
+            2020 data, the average family income for these 728 households is 60,847 yuan, with an average non-housing
+            debt of 14,350 yuan. Subtracting the latter from the former, we derived an average disposable income of
+            46,497 yuan for the sampled households in Hebei. Based on this data, we selected three representative
+            households. These households' disposable income levels fall into the 20,000 yuan range, the 50,000 yuan
+            range, and the 70,000 yuan range, respectively. Following the principle of normal distribution, these income
+            levels are evenly distributed around the mean income of 60,874 yuan. Therefore, we believe that selecting
+            these three households can better represent the diversity of family incomes in Hebei Province, thus allowing
+            for a more comprehensive exploration of the region's economic trends and current status.
+        </p>
+        <p>In selecting these three households, we considered the following reasons:
+            Representativeness: The income levels of these three households cover different segments of family incomes
+            in Hebei Province, reflecting the economic diversity and complexity of the region. Data credibility: The
+            data from these three households is highly reliable, providing valuable insights that accurately reflect the
+            economic conditions in Hebei Province. Comparability: By comparing the situations of these three households,
+            we can better understand the living conditions and economic pressures of families at different income
+            levels, thus informing future research and policy-making.
+        </p>
+      </div>
+      </div>
+
+      <div class="graphBox">
+        <select id="family-select">
+            <option value="f1">Family1</option>
+            <option value="f2">Family2</option>
+            <option value="f3">Family3</option>
+        </select>
+        <!-- <img src="assets/16pic_7185893_b.jpg" alt=""> -->
+        <div id="viz4"></div>
+        <!-- <select id="family-select">
+            <option value="f1">Family1</option>
+            <option value="f2">Family2</option>
+            <option value="f3">Family3</option>
+        </select> -->
+
+        <p class="caption">Total Expenditure & Total Savings for Each Fammily</p>
+        <p>
+        </p>
+
+     </div>
+      <div class="graphBox">
+        <label for="familySelect">Select Family:</label>
+        <select id="familySelect">
+            <option value="f1">Family 1</option>
+            <option value="f2">Family 2</option>
+            <option value="f3">Family 3</option>
+        </select>
+        <!-- <img src="assets/16pic_7185893_b.jpg" alt=""> -->
+        <div id="viz5"></div>
+        <!-- <label for="familySelect">Select Family:</label>
+        <select id="familySelect">
+            <option value="f1">Family 1</option>
+            <option value="f2">Family 2</option>
+            <option value="f3">Family 3</option>
+        </select> -->
+        <p class="caption">Expenditure Details</p>
+        <div class = "articleWrapper">
+        <p>After scrutinizing the circumstances of the three families, our assessment of the economic landscape in Hebei
+            may not remain entirely sanguine. The first family, emblematic of the low-income demographic, exhibits
+            commendable prudence in budgeting, prioritizing education expenditures despite their modest means. However,
+            it is questionable whether such a substantial investment in education always yields commensurate returns.
+            China's hefty per capita investment in education raises doubts about the correlation between education and
+            wealth accumulation, especially when juxtaposed with the second family's financial struggles, where high
+            living costs erode the lion's share of their income, and leaving little room for savings. This prompts a
+            reevaluation of the traditional Chinese belief that knowledge inevitably leads to prosperity.
+        </p>
+        <p>So, where does the future truly lie? This question weighs heavily on the minds of the younger generation.
+            Regrettably, the glimmer of prosperity we observe in the third family is overshadowed by their reliance on
+            rental income, which, while surpassing Hebei's average disposable income, signifies a departure from
+            traditional labor-based income.
+            In the reawakening optimism of post-pandemic China, these families embody the intricate tapestry of economic
+            vibrancy and fragility. Their narratives reflect the nuanced realities of Hebei's economic landscape, where
+            progress and prosperity do not uniformly advance.
+            The resilience of the first family underscores a steadfast belief in education's transformative potential,
+            while the struggles of the second family challenge assumptions about the relationship between education and
+            wealth. The third family serves as a reminder that prosperity can stem from unconventional sources,
+            transcending traditional labor paradigms.
+            Amidst the economic tumult catalyzed by three years of COVID-19 upheaval, Hebei and similarly positioned
+            provinces find themselves at a critical juncture. Situated in the middle to lower echelons of the national
+            per capita disposable income rankings, they confront a pressing need for rejuvenation and revitalization.
+            Yet, the traditional pathways to prosperity, anchored in "non-fixed" assets, prove inadequate in navigating
+            these turbulent times. Despite the promising announcement from Xijin Ping of the "Xiongan New Area" plan in
+            2017, anticipated economic surges reminiscent of the Pearl River Delta or Shenzhen Special Economic Zone
+            fail to materialize, leaving questions lingering about the efficacy of regional development strategies.
+            Looking ahead, the upcoming CFPS surveys slated for 2022 and 2024 hold promise in illuminating potential
+            recovery trajectories. However, until concrete evidence emerges, the quest for sustainable growth remains a
+            paramount challenge.
+        </div>
+        </p>
+      </div>
+    </div>
+
+
+    </div>
+
+    <script type="module" src="graph1.js"></script>
+    <script type="module" src="graph2.js"></script>
+    <script type="module" src="graph3.js"></script>
+    <script type="module" src="graph4.js"></script>
+    <script type="module" src="graph5.js"></script>
+
+    <!-- <script type="module" src="script.js"></script> -->
+</body>
+
+</html>

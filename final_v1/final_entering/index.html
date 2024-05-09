@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.">
+  <title>家家有本难念的经</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+      background-image: url('asset/background.png'); 
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed; 
+      position: relative; 
+    }
+    .logo {
+      position: absolute;
+      top: -50px; 
+      left: 50px; 
+      right: 50px;
+    }
+    .logo img {
+      width: 100px; 
+      height: auto;
+    }
+    .container {
+      margin-top: 20%;
+      position: relative;
+    }
+    h1 {
+      font-size: 2rem;
+    }
+    .enter-button-container {
+      position: absolute;
+      bottom: -80px; 
+      left: 50%; 
+      transform: translateX(-50%); 
+      cursor: pointer;
+    }
+    .enter-button {
+      display: block;
+      width: 80px; 
+      height: auto; 
+    }
+    .button-text {
+      position: absolute;
+      top: 42%;
+      left: 37%;
+      transform: translate(-50%, -50%);
+      color: rgb(0, 0, 0);
+      font-size: 13px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="logo">
+      <img src="asset/coverpage1.png" alt="Logo 1"> 
+      <img src="asset/coverpage1.png" alt="Logo 2"> 
+    <h1>🏠家家有本难念的经🏠</h1>
+    <h4>🙌We all Have a Cross to Bear🙌</h4>
+    <!-- Use a container to position the button image and text together -->
+    <div class="enter-button-container" onclick="enter()">
+      <img class="enter-button" src="asset/enter.png" alt="Enter Button">
+      <span class="button-text">Enter</span> <!-- Text on the button -->
+    </div>
+  </div>
+
+  <script>
+    function enter() {
+      window.location.href = "/final_v1/article/"; 
+    }
+  </script>
+</body>
+</html>
