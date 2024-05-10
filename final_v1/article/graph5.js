@@ -8,8 +8,10 @@ let yPadding = 50;
 let viz = d3.select("#viz5")
     .append("svg")
     .attr("class", "viz")
-    .attr("width", w)
-    .attr("height", h)
+    // .attr("width", w)
+    // .attr("height", h)
+    .attr("preserveAspectRatio", "xMinYMin meet")
+    .attr("viewBox", "0 0 "+w+" "+h)
     .style("background-color", "Transparent");
 
 function gotData(incomingData) {

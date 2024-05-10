@@ -128,6 +128,53 @@ savingsBars.exit().remove();
         // Update visualization with new data
         updateVisualization(selectedData);
     });
+
+    // Legend
+    const legendWidth = 120;
+    const legendHeight = expenditureBars.length *20;
+
+    const legend = viz.append("g")
+        .attr("class", "legend")
+        .attr("transform", `translate(${w - legendWidth}, 20)`);
+
+    legend.selectAll("rect")
+        .data(expenditureData)
+        .enter()
+        .append("rect")
+        .attr("x", 0)
+        .attr("y", (d, i) => i * 20)
+        .attr("width", 10)
+        .attr("height", 10)
+        .attr("fill", "C64A44");
+    
+    legend.selectAll("rect")
+         .data(savings)
+         .enter()
+        .append("rect")
+        .attr("x", 0)
+        .attr("y", (d, i) => i * 20)
+        .attr("width", 10)
+        .attr("height", 10)
+        .attr("fill", "green");
+
+    legend.selectAll("text")
+        .data(expenditure)
+        .enter()
+        .append("text")
+        .attr("x", 15)
+        .attr("y", (d, i) => i * 20 + 9)
+        .text(d => d)
+        .attr("alignment-baseline", "middle");
+    
+    legend.selectAll("text")
+        .data(savings)
+        .enter()
+        .append("text")
+        .attr("x", 15)
+        .attr("y", (d, i) => i * 20 + 9)
+        .text(d => d)
+        .attr("alignment-baseline", "middle");
+
 }
 
 Promise.all([
