@@ -1,0 +1,49 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  display: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  text-align: center;
+  margin: 0; 
+}
+
+body{
+  margin-top: 10px;
+  margin-right: 20px;
+  margin-bottom: 30px;
+  margin-left: 20px;
+  }
+  .viz{
+    border: 1px rgb(255, 255, 255) solid;
+  }
+  
+  .tooltip strong {
+    color: #d9b1bbe8;
+    font-weight: bold;
+  }
+  
+  .tooltip span {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+  
+    border-radius: 50%;
+  }
+  
+  .tooltip {
+    position: relative;
+    display: inline-block;
+    background: rgba(0, 0, 0, 0.7);
+    border-radius: 3px;
+    box-shadow: -3px 3px 15px #939393;
+    color: rgb(0, 0, 0);
+    padding: 6px;
+    font-family: "Merriweather";
+    font-size: 1.1em;
+    max-width: 300px;
+    z-index: 100;
+  }

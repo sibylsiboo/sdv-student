@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "sdv-student",
+			"path": ".."
+		},
+		{
+			"path": "../../../../Desktop/lab5-axis_blank"
+		},
+		{
+			"path": "../../../../Desktop/enter-update-exit-transition-empty"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "sdv-student"
+	}
+}

@@ -1,0 +1,2114 @@
+[
+   {
+      "fid10": {
+         "value": 130094,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2010,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 0,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": null,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 2200,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 0,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 100,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 0,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 30000,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 0,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 0,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 0,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": 0,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": "\u4e0d\u9002\u7528",
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": null,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 0,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130299,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2010,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 0,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": null,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 36788,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 6788,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 2000,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 1500,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 1000,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 7800,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 600,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 0,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": 250000,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": "\u4e0d\u9002\u7528",
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": null,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 0,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130533,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2010,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 0,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": null,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 10000,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 1200,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 200,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 400,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 300,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 360,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 6000,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 0,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": 0,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": "\u4e0d\u9002\u7528",
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": null,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 30000,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130094,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2012,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 500,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": 1,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 11420,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 10400,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 1000,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 1840,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 0,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 3600,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 0,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 0,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": 2012,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": -8,
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": 5,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 500,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130299,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2012,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 100,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": 1,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 63330,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 31200,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 3000,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 7100,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 2200,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 4560,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 0,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 0,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": 2008,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": -8,
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": 7,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 30000,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130533,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2012,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 300,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": 5,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 20380,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 0,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 1000,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 720,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 2000,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 2400,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 20000,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 0,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": -1,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": -8,
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": 1,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 2000,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130094,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2015,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 3,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": 1,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": null,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 6000,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 500,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 150000,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 0,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 1440,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 0,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 0,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": -8,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": -8,
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": 1,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 0,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130299,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2014,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 2,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": 0,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 11400,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 2400,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 300,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 0,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 1200,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 120,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 0,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 0,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": -8,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": -8,
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": 2,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 5000,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130533,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2014,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 3,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": 0,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 10000,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 24000,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 5000,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": null,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 0,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 3600,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 3400,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 0,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": -8,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": -8,
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": 1,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 20000,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130094,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2014,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 6,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": 1,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 211090,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 7200,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 1000,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 2400,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 3000,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 2400,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 0,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 0,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": 30,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": -8,
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": 4,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 30000,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130299,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2014,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 3,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": 1,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 53400,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 6000,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 2000,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 3480,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 4000,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 6000,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 0,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 0,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": 65,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": -8,
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": 4,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 5000,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130533,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2014,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 1,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": 0,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 16100,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 1200,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 1000,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 1080,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 200,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 1260,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 14000,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 0,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": 18,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": -8,
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": 1,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 20000,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130094,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2016,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 6,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": 5,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 76000,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 24000,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 4000,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 3600,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 1000,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 3000,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 0,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 300,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": -8,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": -8,
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": 2,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 2000,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130299,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2016,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 2,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": 5,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 1800,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 0,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 0,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 0,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 2160,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 120,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 0,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 0,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": -8,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": -8,
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": 2,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 1300,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130533,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2016,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 4,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": 5,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 40000,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 12000,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 10000,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 5490,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 1600,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 3600,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 2000,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 0,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": -8,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": -8,
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": 3,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 3000,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130094,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2016,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 3,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": 1,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 55000,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 7200,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 1000,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 18804,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 8000,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 3600,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 2000,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 0,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": 30,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": -8,
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": 4,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 0,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130299,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2016,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 6,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": 1,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 34700,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 12000,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 2000,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 12600,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 2000,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 10800,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 0,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 300,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": 40,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": -8,
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": 4,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 50000,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130533,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2016,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 6,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": 1,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 4000,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 2400,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 300,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 1800,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 300,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 600,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 0,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 0,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": 15,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": -8,
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": 1,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 30000,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130299,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2016,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 2,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": 1,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 21200,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 8400,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 5000,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 4920,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 1000,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 4800,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 0,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 0,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": 6,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": -8,
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": 2,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 5000,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130299,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2018,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 2,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": 5,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 2720,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 2400,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 500,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 1680,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 8000,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 0,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 0,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 0,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": 2,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": -8,
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": 2,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 4000,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130533,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2018,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 4,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": 5,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 65000,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 12000,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 8000,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 5900,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 1000,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 5400,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 0,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 0,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": 45,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": -8,
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": 3,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 30000,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130094,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2018,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 3,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": 5,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 690140,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 12000,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 2000,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 242640,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 1500,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 4800,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 500,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 0,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": 30,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": -8,
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": 6,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 75000,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130299,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2018,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 4,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": 1,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 74500,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 7200,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 3000,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 6000,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 2000,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": null,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 4400,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 0,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": 150,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": -8,
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": 5,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 5000,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130533,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2018,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 3,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": 5,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 18090,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 6000,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 1000,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 2880,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 2000,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 1440,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 200,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 0,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": 22,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": -8,
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": 1,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 100000,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130299,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2018,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 3,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": 5,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 46800,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 12000,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 5000,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 4280,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 2000,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 3600,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 10200,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 100,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": 30,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": 40000,
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": 2,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 10000,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130094,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2020,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 3,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": 5,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 50000,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 24000,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 10000,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 4800,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 0,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 3600,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 0,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 300,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": 100,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": -8,
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": 3,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 0,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130299,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2020,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 6,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": 5,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 1200,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 1200,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 0,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 0,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 800,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 120,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 0,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 0,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": -8,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": -8,
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": 1,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 1500,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130533,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2020,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 3,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": 5,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 72000,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 12000,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 10000,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 125340,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 0,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 3600,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 7300,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 0,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": 60,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": -8,
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": 2,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 20000,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130094,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2020,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 3,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": 5,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 35000,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 6000,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 1000,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 2040,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 500,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 2160,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 0,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 0,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": 10,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": -8,
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": 1,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 0,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130299,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2020,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 4,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": 1,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 43450,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 9600,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 3000,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 10440,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 1000,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 9600,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 4700,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 0,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": 200,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": -8,
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": 5,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 40000,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130533,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2020,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 6,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": 1,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 55360,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 6000,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 1300,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 3600,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 400,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 4200,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 0,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 0,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": 20,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": -8,
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": 3,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 5000,
+         "description": "savings"
+      }
+   },
+   {
+      "fid10": {
+         "value": 130299,
+         "description": "family ID from year 2010"
+      },
+      "cyear": {
+         "value": 2020,
+         "description": "year of this survey response"
+      },
+      "fa4": {
+         "value": 4,
+         "description": "type of cooking fuel"
+      },
+      "fk1l": {
+         "value": 5,
+         "description": "engaged in agriculture"
+      },
+      "fincome1": {
+         "value": 30000,
+         "description": "total net family income"
+      },
+      "food": {
+         "value": 9600,
+         "description": "expenses on food"
+      },
+      "dress": {
+         "value": 4000,
+         "description": "expenses on clothing"
+      },
+      "house": {
+         "value": 12360,
+         "description": "expenses on household equipment and daily necessities"
+      },
+      "med": {
+         "value": 2000,
+         "description": "expenses on health/medicine"
+      },
+      "trco": {
+         "value": 7200,
+         "description": "transportation and communication"
+      },
+      "eec": {
+         "value": 12000,
+         "description": "education and entertainment"
+      },
+      "fp407": {
+         "value": 500,
+         "description": "monthly rent"
+      },
+      "fq6": {
+         "value": 25,
+         "description": "current house market value"
+      },
+      "ft501": {
+         "value": 40000,
+         "description": "amount of pending loan"
+      },
+      "fp2": {
+         "value": 3,
+         "description": "number of people eating at home"
+      },
+      "savings": {
+         "value": 10000,
+         "description": "savings"
+      }
+   }
+]

@@ -12,6 +12,8 @@
 
 **ignore-this
 
+cfps2020person_202306.sas7bdat
+
 # the "**" means that it does not matter where in your
 # project the ignore-this folder shows up,
 # it will always be ignored

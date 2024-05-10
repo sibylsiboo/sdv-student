@@ -1,5 +1,9 @@
-p{
-  color: blue;
-  font-style: italic;
-  font-family: sans-serif;
+.headline{
+    background-color: blueviolet;
+}
+#vizContainer{
+  background-color: aqua;
+  width:100%;
+  height:100px;
+
 }

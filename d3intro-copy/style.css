@@ -1,0 +1,12 @@
+body{
+  width, height: 100%;
+  margin: 0;
+}
+#viz{
+  border: 1px black solid;
+  background-color: rgb(190, 151, 140);
+}
+
+.mangaTitle{
+  font-size: 3px;
+}

@@ -1,0 +1,28 @@
+// this file exists for reference only
+// (JSON format does not actually allow comments)
+
+[
+  {"name": "A", "x": 0, "y": 10, "step": 1},
+  {"name": "A", "x": 20, "y": 40, "step": 2},
+  {"name": "A", "x": 70, "y": 70, "step": 3},
+  {"name": "A", "x": 80, "y": 100, "step": 4},
+  {"name": "A", "x": 130, "y": 90, "step": 5},
+ 
+  {"name": "B", "x": 0, "y": 40, "step": 1},
+  {"name": "B", "x": 50, "y": 5, "step": 2},
+  {"name": "B", "x": 65, "y": 60, "step": 3},
+  {"name": "B", "x": 85, "y": 30, "step": 4},
+  {"name": "B", "x": 100, "y": 50, "step": 5},
+
+  {"name": "C", "x": 0, "y": 110, "step": 1},
+  {"name": "C", "x": 40, "y": 60, "step": 2},
+  {"name": "C", "x": 120, "y": 80, "step": 3},
+  {"name": "C", "x": 125, "y": 20, "step": 4},
+  {"name": "C", "x": 145, "y": 80, "step": 5},
+
+  {"name": "D", "x": 0, "y": 140, "step": 1},
+  {"name": "D", "x": 30, "y": 110, "step": 2}, // "D" leaves after step 2
+   
+  {"name": "E", "x": 70, "y": 90, "step": 4}, // "E" only arrives in step 4
+  {"name": "E", "x": 90, "y": 20, "step": 5}
+]
